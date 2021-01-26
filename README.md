@@ -1,2 +1,5 @@
 # shopping-list
-awesome shopping list exercise
+
+javscript is fun! :D
+
+[demo](https://cdeath.github.io/shopping-list)
