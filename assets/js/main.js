@@ -210,8 +210,8 @@
     });
 
     addItem(item);
-
     form.reset();
+    evt.target.elements[0].focus();
   }
 
   /*
